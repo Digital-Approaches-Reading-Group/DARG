@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The Digital Approaches Reading Group (DARG ) at Washington University in St. Louis is generously funded by the [Center for the Humanities](https://cenhum.artsci.wustl.edu/) and associated with the [Humanities Digital Workshop](https://hdw.artsci.wustl.edu/). For more information about DARG and the DARG meeting schedule, email darg.wustl@gmail.com.
